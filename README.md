@@ -10,6 +10,6 @@ An example of using these together is as follows:
 `fifo_listen NotificationListener /usr/bin/echo`
 
 ### Terminal 2:
-`fifo_send NotificationListener -s "My notification" -s "Sample text"
+`fifo_send NotificationListener -s "My notification" -s "Sample text"`
 
 This library is feature-complete, but still an early work-in-progress. Expect bugs.
