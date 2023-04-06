@@ -1,6 +1,6 @@
 # libfifomsg
 
-A simple interprocess communication library using FIFOs and msgpack-c. Used by Cobalt's userspace programs as a replacement for the overthought and insecure D-Bus.
+A simple interprocess communication library using FIFOs and msgpack-c. Used by Cobalt's userspace programs as a replacement for the overcomplicated and insecure D-Bus.
 
 ## `fifo_send` and `fifo_listen`
 This library also contains the supplementary utilities `fifo_send` and `fifo_listen`. Together, these utilities enable command-line usage of this library.

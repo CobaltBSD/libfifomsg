@@ -1,3 +1,7 @@
-1.0 - Mar 13, 2023
+0.2 - Apr 6 2023
+* Fixed makefile for compilers other than GCC
+* Other minor changes/fixes
+
+0.1 - Mar 13, 2023
 * Added fifo_listen and fifo_send programs
 * Added libfifomsg
