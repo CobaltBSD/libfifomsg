@@ -1,3 +1,6 @@
+# Notice
+This project is not abandoned, but development has been halted due to further notice.
+
 # libfifomsg
 
 A simple interprocess communication library using FIFOs and msgpack-c. Used by Cobalt's userspace programs as a replacement for the overcomplicated and insecure D-Bus.
